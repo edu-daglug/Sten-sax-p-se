@@ -11,6 +11,8 @@ def spela():
         print(f"vinare i spelomgång {i}: {spelarnamn}!")
     else:
         print(f"vinare i spelomgång {i}: Pyhton311!")
+    
+
 print("Nu ska vi köra sten, sax eller påse!\nJag är Pyhton311\n")
 spelarnamn=input("Ange ditt spelarnamn ->")
 spelomgångar=int(input("Ange hur många omgångar vi ska spela? ->"))
