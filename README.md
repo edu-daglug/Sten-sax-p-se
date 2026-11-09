@@ -1,5 +1,6 @@
 2026-11-05
-Idag har vi försökt komma igång genom att ladda ner ett tillägg som heter "Live share" för att vi ska kunna arbeta tillsammans och skriva kod gemensamt. Men vi fick ett problem att vi inte kan köra koden. 
+Idag har vi försökt komma igång genom att ladda ner ett tillägg som heter "Live share" för att vi ska kunna arbeta tillsammans och skriva kod gemensamt. Men vi fick ett problem att vi inte kan köra koden. Vi kom fram till att vi inte kan använda Live share utan får jobba på sin egen dator och försöka hjälpa varann genom att commita filerna så att alla andra kan ha tillgång till dem. 
 
 2026-11-09
-Vi har skrivit ett program men vi har några problem
+Vi har skrivit ett program som matar ut ett spel av sten sax påse, men vi har några problem. Det första är att vi vill att den tar emot endast sten, sax eller påse som mätvärden, för nu kan den ta emot vad som helst, som automatiskt leder till att datorn vinner. Detta löste vi genom en kod som endast tar emot värden från listan. Vi valde även att använda en .lower för att inte få några misstag om man skriver värden med stora bokstäver. Ännu ett problem vi har är att vi inte kan sortera slutresultaten, men det löste vi via en if sats som sorterade. Vi hade även ett problem att den skrev input-satsen två gånger, men det lyckades vi lösa genom att ta bort några return-satser som låg på fel ställe. 
+En sammanställning av dagens aktioner: Vi har blivit klara med koden till sten, sax eller påse. Vi har även stött på en del problem, men som vi tillsammans i grupp har kommit fram till lösningar på.
